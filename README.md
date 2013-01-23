@@ -1,1 +1,1 @@
-This is a sampel application for ruby on rails tutorial
+This is a sample application for ruby on rails tutorial
